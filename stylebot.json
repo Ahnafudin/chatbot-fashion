@@ -1,0 +1,198 @@
+{
+    "intents": [
+      {
+        "tag": "fashion",
+        "patterns": [
+          "Apa itu fashion?",
+          "Apa yang dimaksud dengan fashion?",
+          "Definisi fashion",
+          "Fashion itu apa?",
+          "Apakah kamu bisa menjelaskan fashion?"
+        ],
+        "responses": [
+          "Fashion adalah suatu gaya berpakaian, aksesori, dan perilaku yang mencerminkan tren dan selera tertentu pada suatu waktu tertentu. Ini adalah ekspresi kreatif dan cara orang berkomunikasi melalui pakaian dan penampilan mereka.",
+          "Fashion adalah seni mengenakan pakaian dan aksesori dengan gaya dan estetika tertentu. Ini mencerminkan budaya, kepribadian, dan tren saat ini.",
+          "Fashion adalah industri yang berkembang pesat yang melibatkan desain pakaian, manufaktur, pemasaran, dan penjualan produk pakaian dan aksesori. Ini juga mencakup tren gaya dan penampilan yang populer pada suatu waktu tertentu."
+        ]
+      },
+      {
+        "tag": "tren_fashion",
+        "patterns": [
+          "Apa yang sedang tren dalam fashion saat ini?",
+          "Tren fashion terbaru",
+          "Model pakaian populer sekarang",
+          "Apa yang harus saya kenakan saat ini?",
+          "Fashion 2023"
+        ],
+        "responses": [
+          "Tren fashion saat ini dapat berbeda-beda tergantung pada musim dan lokasi geografis. Namun, beberapa tren yang populer saat ini termasuk pakaian oversized, motif dan warna cerah, aksesori berlebihan, serta fokus pada keberlanjutan dan pakaian ramah lingkungan.",
+          "Tren fashion selalu berubah, tetapi beberapa hal yang sedang populer saat ini adalah pakaian dengan siluet longgar, atasan crop, pola tie-dye, dan aksesori yang mencolok seperti kalung chunky dan anting-anting besar.",
+          "Untuk selalu up-to-date dengan tren fashion, Anda bisa mengikuti majalah mode, desainer terkenal, dan toko pakaian online. Tetapi yang paling penting, kenakan apa yang membuat Anda merasa nyaman dan percaya diri."
+        ]
+      },
+      {
+        "tag": "desain_fashion",
+        "patterns": [
+          "Bagaimana proses desain fashion?",
+          "Langkah-langkah dalam merancang pakaian",
+          "Cara menjadi desainer fashion",
+          "Proses kreatif dalam fashion"
+        ],
+        "responses": [
+          "Proses desain fashion melibatkan beberapa langkah, termasuk konsep, perancangan pola, pemilihan bahan, pembuatan sampel, dan produksi massal. Desainer juga harus mempertimbangkan tren, keberlanjutan, dan preferensi pelanggan saat merancang pakaian.",
+          "Seorang desainer fashion biasanya mulai dengan membuat sketsa desain, lalu membuat pola pakaian, memilih bahan yang sesuai, menciptakan sampel, dan menguji model pakaian sebelum memasuki produksi massal. Proses ini mencakup kreativitas dan ketelitian yang tinggi.",
+          "Untuk menjadi seorang desainer fashion, Anda perlu mengembangkan keterampilan desain, memahami tren fashion, dan memiliki pemahaman tentang bahan dan teknik produksi. Memahami selera dan kebutuhan pelanggan juga penting dalam proses desain."
+        ]
+      },
+      {
+        "tag": "keberlanjutan_fashion",
+        "patterns": [
+          "Bagaimana fashion dapat menjadi lebih berkelanjutan?",
+          "Fashion ramah lingkungan",
+          "Cara mendukung keberlanjutan dalam fashion",
+          "Inovasi dalam fashion berkelanjutan"
+        ],
+        "responses": [
+          "Untuk mendukung keberlanjutan dalam fashion, kita dapat memilih pakaian yang terbuat dari bahan ramah lingkungan seperti organik atau daur ulang, mendukung merek yang berkomitmen pada praktik produksi yang bertanggung jawab, serta merawat pakaian kita dengan baik untuk memperpanjang umur pakaiannya.",
+          "Industri fashion semakin berfokus pada keberlanjutan dengan mengurangi limbah tekstil, menggunakan bahan daur ulang, dan mengadopsi praktik produksi yang lebih ramah lingkungan. Konsumen juga dapat berperan dengan membeli produk fashion yang mendukung lingkungan dan mengurangi pemborosan.",
+          "Inovasi dalam fashion berkelanjutan melibatkan pengembangan bahan baru yang ramah lingkungan, teknologi produksi yang efisien, dan siklus hidup pakaian yang lebih panjang. Desainer dan merek fashion terus mencari cara untuk mengurangi dampak negatif industri terhadap lingkungan."
+        ]
+      },
+      {
+        "tag": "rekomendasi_fashion",
+        "patterns": [
+          "Apa pakaian yang cocok untuk acara formal?",
+          "Rekomendasi fashion untuk pernikahan",
+          "Tren fashion musim panas 2023",
+          "Bagaimana berpakaian untuk pertemuan bisnis?",
+          "Apa yang harus saya kenakan ke pesta malam?"
+        ],
+        "responses": [
+          "Untuk acara formal seperti pernikahan atau gala, rekomendasi fashion meliputi gaun panjang atau setelan jas tuxedo untuk pria dan gaun malam panjang atau gaun koktail elegan untuk wanita. Pastikan untuk memilih warna dan gaya yang sesuai dengan tema acara.",
+          "Tren fashion musim panas 2023 mencakup pakaian berwarna cerah, bahan ringan seperti linen, dan aksesori yang mencolok. Rekomendasi fashion musim panas termasuk maxi dress, kaos oversized, topi lebar, dan sandal yang nyaman.",
+          "Untuk pertemuan bisnis, rekomendasi fashion untuk pria adalah mengenakan setelan jas dengan kemeja dan dasi. Wanita dapat memilih setelan yang rapi atau gaun bisnis dengan aksesori yang profesional.",
+          "Untuk pesta malam, rekomendasi fashion termasuk gaun pesta yang glamor atau setelan berwarna gelap untuk pria. Anda bisa menambahkan aksesori seperti perhiasan berkilauan dan tas yang sesuai untuk tampilan yang elegan.",
+          "Tren fashion selalu berkembang, jadi pastikan untuk memilih pakaian yang membuat Anda merasa nyaman dan menggambarkan gaya pribadi Anda. Jangan takut untuk berkreasi dan mengekspresikan diri melalui pakaian Anda."
+        ]
+      },
+      {
+        "tag": "perawatan_pakaian",
+        "patterns": [
+          "Bagaimana cara merawat pakaian dengan baik?",
+          "Tips perawatan pakaian",
+          "Cara mencuci pakaian yang benar",
+          "Bagaimana menjaga pakaian tetap awet"
+        ],
+        "responses": [
+          "Untuk merawat pakaian dengan baik, pastikan untuk membaca label perawatan yang terdapat pada pakaian. Sortir pakaian berdasarkan warna dan jenis kain sebelum mencucinya. Gunakan deterjen yang tepat, hindari pemakaian suhu air yang terlalu panas, dan jangan terlalu banyak mengisi mesin cuci.",
+          "Tips perawatan pakaian meliputi menjaga pakaian dari paparan sinar matahari langsung yang dapat memudarakan warna, menggantung pakaian dengan benar untuk mencegah kerutan, dan menyimpan pakaian yang bersih dan kering di lemari yang bersih.",
+          "Cara mencuci pakaian yang benar adalah dengan memisahkan warna gelap dan warna terang serta mencuci dengan air dingin untuk mencegah pewarnaan transfer. Hindari penggunaan pemutih pada pakaian berwarna dan selalu baca petunjuk perawatan pada label.",
+          "Untuk menjaga pakaian tetap awet, hindari mencuci terlalu sering, gantung pakaian setelah digunakan agar udara dapat menghilangkan bau, dan perbaiki lubang atau jahitan yang rusak segera. Juga, simpan pakaian dalam lemari yang tertata dengan baik agar tidak terjepit atau terlipat dengan buruk."
+        ]
+      },
+      {
+        "tag": "fashion_dan_identitas",
+        "patterns": [
+          "Bagaimana fashion mencerminkan identitas seseorang?",
+          "Fashion dan ekspresi diri",
+          "Cara fashion memengaruhi persepsi orang terhadap Anda",
+          "Fashion sebagai sarana untuk mengekspresikan diri"
+        ],
+        "responses": [
+          "Fashion dapat menjadi sarana untuk mencerminkan identitas seseorang dengan memilih pakaian dan aksesori yang sesuai dengan nilai, minat, dan kepribadian mereka. Ini adalah bentuk ekspresi diri yang kuat.",
+          "Cara seseorang berpakaian dapat memengaruhi cara orang lain mempersepsikan mereka. Pakaian dapat mengomunikasikan pesan tentang status sosial, profesi, selera artistik, dan banyak aspek lain dari identitas seseorang.",
+          "Menggunakan fashion sebagai sarana untuk mengekspresikan diri memberikan kebebasan untuk merayakan keunikan dan keberagaman dalam masyarakat. Ini memungkinkan orang untuk merasa lebih percaya diri dan nyaman dengan diri mereka sendiri."
+        ]
+      },
+      {
+        "tag": "fashion_fenomenal",
+        "patterns": [
+          "Apa saja tren fashion yang sedang populer saat ini?",
+          "Fashion paling populer tahun ini",
+          "Apa yang sedang booming di dunia fashion?"
+        ],
+        "responses": [
+          "Beberapa tren fashion yang sedang populer saat ini termasuk pakaian oversize, motif tie-dye yang kembali tren, aksesori chunky seperti anting-anting dan kalung besar, serta warna-warna cerah seperti oranye dan pink neon.",
+          "Fashion paling populer tahun ini mencakup penggunaan pola bunga yang menawan, busana atletik yang dapat digunakan sehari-hari, pakaian denim yang nyaman, dan sepatu dengan desain futuristik.",
+          "Yang sedang booming di dunia fashion adalah pakaian berinspirasi alam dengan motif tumbuhan dan hewan, aksen cut-out yang unik pada pakaian, serta gaya retro dari tahun 70-an, 80-an, dan 90-an yang membuat comeback."
+        ]
+      },
+      {
+        "tag": "ekologi_fashion",
+        "patterns": [
+          "Bagaimana fashion dapat berkontribusi pada keberlanjutan?",
+          "Fashion ramah lingkungan",
+          "Cara membeli pakaian dengan etika lingkungan"
+        ],
+        "responses": [
+          "Fashion dapat berkontribusi pada keberlanjutan dengan menggunakan bahan ramah lingkungan seperti organik, daur ulang kain, dan proses produksi yang mengurangi limbah dan penggunaan air. Desain produk yang tahan lama juga mendukung keberlanjutan.",
+          "Fashion ramah lingkungan juga melibatkan praktik-praktik etika, seperti kondisi kerja yang adil untuk pekerja pabrik, mengurangi penggunaan bahan berbahaya, dan mendukung merek-merek yang berkomitmen pada lingkungan dan sosial.",
+          "Cara membeli pakaian dengan etika lingkungan termasuk memilih produk yang memiliki sertifikasi keberlanjutan, mendukung merek-merek lokal, dan membeli pakaian berkualitas yang akan bertahan lama, mengurangi limbah."
+        ]
+      },
+      {
+        "tag": "fashion_dan_kesehatan",
+        "patterns": [
+          "Bagaimana pemilihan pakaian dapat memengaruhi kesehatan?",
+          "Pakaian yang nyaman untuk kesehatan",
+          "Dampak pakaian yang ketat pada tubuh"
+        ],
+        "responses": [
+          "Pemilihan pakaian yang tepat dapat memengaruhi kesehatan. Pakaian yang terlalu ketat dapat mengganggu sirkulasi darah dan menyebabkan ketidaknyamanan. Di sisi lain, pakaian yang longgar dan nyaman dapat mendukung kesehatan tubuh.",
+          "Untuk kesehatan, disarankan untuk memilih pakaian yang terbuat dari bahan bernapas, seperti katun atau linen, terutama dalam cuaca panas. Selain itu, pakaian yang sesuai dengan aktivitas fisik Anda akan membantu mencegah cedera dan ketidaknyamanan.",
+          "Pakaian yang terlalu ketat dapat menyebabkan tekanan pada organ-organ tubuh, gangguan pernapasan, dan masalah kulit. Oleh karena itu, penting untuk memilih pakaian yang sesuai dengan ukuran tubuh Anda."
+        ]
+      },
+      {
+        "tag": "fashion_industri",
+        "patterns": [
+          "Bagaimana industri fashion berkontribusi pada perekonomian?",
+          "Pengaruh industri fashion terhadap ekonomi",
+          "Manfaat ekonomi dari perusahaan fashion"
+        ],
+        "responses": [
+          "Industri fashion memiliki dampak besar pada perekonomian global. Ini mencakup pekerjaan yang disediakan oleh pabrik garmen, toko ritel, desainer, model, dan sektor terkait lainnya.",
+          "Industri fashion juga berkontribusi pada pertumbuhan ekonomi dengan membantu meningkatkan pendapatan domestik bruto (PDB) suatu negara. Industri ini mencakup berbagai aspek, termasuk manufaktur, pemasaran, dan distribusi produk fashion.",
+          "Manfaat ekonomi dari perusahaan fashion termasuk pembayaran pajak, penciptaan lapangan kerja, dan kontribusi pada perdagangan internasional. Industri fashion terus berkembang dan berperan penting dalam ekonomi global."
+        ]
+      },{
+        "tag": "fashion_etnik",
+        "patterns": [
+          "Apa itu fashion etnik?",
+          "Pakaian tradisional",
+          "Contoh fashion etnik"
+        ],
+        "responses": [
+          "Fashion etnik mengacu pada pakaian yang terinspirasi oleh budaya dan tradisi suatu etnik atau kelompok masyarakat tertentu. Ini mencakup penggunaan motif, warna, dan gaya yang mencerminkan warisan budaya.",
+          "Pakaian tradisional sering menjadi bagian dari fashion etnik. Ini termasuk kimono Jepang, sarong Indonesia, saree India, hanbok Korea, dan banyak lagi. Pakaian ini sering digunakan dalam acara-acara khusus atau perayaan budaya.",
+          "Contoh fashion etnik termasuk batik Indonesia, kente cloth dari Ghana, kaftan Timur Tengah, dan banyak lagi. Fashion etnik telah mendapatkan popularitas global sebagai cara untuk merayakan keanekaragaman budaya dan gaya."
+        ]
+      },
+      {
+        "tag": "fashion_pria",
+        "patterns": [
+          "Tren fashion pria saat ini",
+          "Aksesoris pria yang sedang populer",
+          "Pakaian pria untuk acara formal"
+        ],
+        "responses": [
+          "Beberapa tren fashion pria saat ini mencakup celana jogger, sepatu sneakers berdesain, jaket denim, dan kaos dengan desain grafis yang unik.",
+          "Aksesoris pria yang sedang populer termasuk jam tangan mewah, kacamata hitam yang stylish, topi dadu, serta cincin dan gelang yang berani.",
+          "Untuk acara formal, pria biasanya mengenakan setelan jas lengkap dengan dasi atau bow tie. Pilihan warna dan gaya bisa disesuaikan dengan jenis acara dan preferensi pribadi."
+        ]
+      },
+      {
+        "tag": "fashion_wanita",
+        "patterns": [
+          "Tren fashion wanita saat ini",
+          "Aksesoris wanita yang sedang populer",
+          "Pakaian wanita untuk musim panas"
+        ],
+        "responses": [
+          "Tren fashion wanita saat ini mencakup gaun berpotongan A-line, sepatu sandal dengan tali yang melilit, tas ransel yang stylish, dan aksen sheer atau transparan pada pakaian.",
+          "Aksesoris wanita yang sedang populer termasuk anting-anting chunky, kacamata cat-eye, gelang tumpuk, serta tas tote dengan desain unik.",
+          "Pakaian wanita yang cocok untuk musim panas meliputi gaun berbahan ringan, rok midi yang nyaman, dan pakaian berwarna cerah seperti kuning atau biru laut."
+        ]
+      }
+    ]
+}
